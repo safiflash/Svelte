@@ -15,6 +15,7 @@
         <li>
             <a href={"/characters/${id}"}{name}></a>
         </li>
+        test
     {/each}
 </ul>
 
